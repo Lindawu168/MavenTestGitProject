@@ -160,3 +160,12 @@ I will add a selenium test class and use JUnit as the test runner to run the sel
      . Save it
 
   -- Build the new project
+  
+  --Test reset--
+
+  Reset 1.
+
+  Reset 2.
+
+  Reset 3.
+
