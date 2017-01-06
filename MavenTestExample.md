@@ -165,3 +165,7 @@ I will add a selenium test class and use JUnit as the test runner to run the sel
 
   Reset 1.
 
+  Reset 2.
+
+  Reset 3.
+
